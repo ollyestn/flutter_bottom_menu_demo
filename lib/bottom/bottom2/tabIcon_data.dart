@@ -26,8 +26,8 @@ class TabIconData {
   static List<TabIconData> tabIconsList = <TabIconData>[
     TabIconData(
       name: '首页',
-      imagePath: 'assets/img/home_tab/tab_1.png',
-      selectedImagePath: 'assets/img/home_tab/tab_1s.png',
+      imagePath: 'assets/images/home_tab/tab_1.png',
+      selectedImagePath: 'assets/images/home_tab/tab_1s.png',
       index: 0,
       isSelected: true,
       animationController: null,
@@ -35,8 +35,8 @@ class TabIconData {
     ),
     TabIconData(
       name: '动态',
-      imagePath: 'assets/img/home_tab/tab_2.png',
-      selectedImagePath: 'assets/img/home_tab/tab_2s.png',
+      imagePath: 'assets/images/home_tab/tab_2.png',
+      selectedImagePath: 'assets/images/home_tab/tab_2s.png',
       index: 1,
       isSelected: false,
       animationController: null,
@@ -44,8 +44,8 @@ class TabIconData {
     ),
     TabIconData(
       name: '消息',
-      imagePath: 'assets/img/home_tab/tab_3.png',
-      selectedImagePath: 'assets/img/home_tab/tab_3s.png',
+      imagePath: 'assets/images/home_tab/tab_3.png',
+      selectedImagePath: 'assets/images/home_tab/tab_3s.png',
       index: 2,
       isSelected: false,
       animationController: null,
@@ -53,8 +53,8 @@ class TabIconData {
     ),
     TabIconData(
       name: '我的',
-      imagePath: 'assets/img/home_tab/tab_4.png',
-      selectedImagePath: 'assets/img/home_tab/tab_4s.png',
+      imagePath: 'assets/images/home_tab/tab_4.png',
+      selectedImagePath: 'assets/images/home_tab/tab_4s.png',
       index: 3,
       isSelected: false,
       animationController: null,

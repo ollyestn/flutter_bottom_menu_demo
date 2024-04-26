@@ -1,0 +1,12 @@
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-debug-0 D:\FlutterDev\flutter_bottom_menu_demo\android\app\src\debug\res
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-main-1 D:\FlutterDev\flutter_bottom_menu_demo\android\app\src\main\res
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-pngs-2 D:\FlutterDev\flutter_bottom_menu_demo\build\app\generated\res\pngs\debug
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-resValues-3 D:\FlutterDev\flutter_bottom_menu_demo\build\app\generated\res\resValues\debug
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-rs-4 D:\FlutterDev\flutter_bottom_menu_demo\build\app\generated\res\rs\debug
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-mergeDebugResources-5 D:\FlutterDev\flutter_bottom_menu_demo\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-mergeDebugResources-6 D:\FlutterDev\flutter_bottom_menu_demo\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-merged_res-7 D:\FlutterDev\flutter_bottom_menu_demo\build\app\intermediates\merged_res\debug
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-jetified-window-java-1.0.0-beta04-8 G:\App\gradle\jars\caches\transforms-3\19ff66f031cb422764b0da25d9d6bdb4\transformed\jetified-window-java-1.0.0-beta04\res
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-jetified-annotation-experimental-1.1.0-9 G:\App\gradle\jars\caches\transforms-3\55b58230e55ac19e11de59e32a6117b3\transformed\jetified-annotation-experimental-1.1.0\res
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-core-1.6.0-10 G:\App\gradle\jars\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\res
+com.xyzy.flutter_menus.flutter_bottom_menu_demo.app-jetified-window-1.0.0-beta04-11 G:\App\gradle\jars\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\res

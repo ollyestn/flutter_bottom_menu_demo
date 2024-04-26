@@ -232,7 +232,7 @@ class _BottomBar3State extends State<BottomBar3> with TickerProviderStateMixin {
     );
   }
 
-  var image_close = Image.asset("assets/images/close.png");
+  // var image_close = Image.asset("assets/images/close.png");
   ///////////////////
 
   Widget menuItem(String title, IconData iconData) {
@@ -320,7 +320,7 @@ class _BottomBar3State extends State<BottomBar3> with TickerProviderStateMixin {
                                 math.pi * 3 / 4 * animation.value,
                             child: child);
                       },
-                      child: image_close,//Image.asset('assets/img/close.png',width: 18, height: 18),
+                      child: Image.asset('assets/images/close.png',width: 18, height: 18),
                     ),
                   ),
                 ),

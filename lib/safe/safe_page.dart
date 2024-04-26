@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_demo_bottom_menu/safe/verify_page.dart';
+import 'verify_page.dart';
 // import 'package:project/safe/verify_page.dart';
 
 class SafePage extends StatefulWidget {
